@@ -19,5 +19,5 @@ extracted from any kind of data you wish to utilize for training
 
 ## Objective
 > The main objective of the work is :
-Hate Speech detection using Natural Language Processing and Machine Learning algorithms.
-Classify tweets into two classes based on sentiment analysis.
+* Hate Speech detection using Natural Language Processing and Machine Learning algorithms.
+* Classify tweets into two classes based on sentiment analysis.
