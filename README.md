@@ -28,7 +28,7 @@ extracted from any kind of data you wish to utilize for training
 * In the face of the popularization of social media such as Facebook, Twitter, Instagram, and Tik Tok, communication between people has become faster and easier. In these communication mechanisms, people can express their feelings, criticism, opinions, achievements, etc.
 * The big problem with this relies on the fact that the offense is presented to individuals or groups and this can be potentially harmful to them.
 #### Natural Language Processing:
-     NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.Its goal is to build systems that can make sense of text and automatically perform tasks like translation, spell check, or topic classification
+** NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.Its goal is to build systems that can make sense of text and automatically perform tasks like translation, spell check, or topic classification
 ###### NLP in Real Life		Example
 * Information Retrieval   	Google finds relevant and similar results
 * Machine Translation   	Google Translate translates language from one language to another.
@@ -38,7 +38,7 @@ extracted from any kind of data you wish to utilize for training
 * Spam Filter	    	Gmail filters spam emails separately.
 * Auto-Predict	  	Google Search predicts user search results.
 ##### Natural Language Toolkit(NLTK): 
-     NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
+** NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
 
 
 
