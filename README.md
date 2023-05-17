@@ -16,3 +16,8 @@ and extracting keywords that convey hate speech. Finally, based on a machine lea
 technique called Logistic regression and Naïve Bayes algorithms, which are popular for
 probability calculations, are used to train the computer to classify hate speech using the data
 extracted from any kind of data you wish to utilize for training
+
+## Objective
+> The main objective of the work is :
+Hate Speech detection using Natural Language Processing and Machine Learning algorithms.
+Classify tweets into two classes based on sentiment analysis.
