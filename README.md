@@ -63,6 +63,30 @@ extracted from any kind of data you wish to utilize for training
 * Hard disk		:  More than 500 GB	
 * Processor		:  Intel 5th generation or high.
 
+### Dataset Description
+* Text file is used for detecting Hate Speech
+* Size of the dataset:-7.53 MB
+* The dataset contains 40740 entries.
+* All 40740 entries are used.
+* The Dataset contains 10 fields,
+* Training Data: 80%
+* Testing Data:20%
+* Dataset is Collected from the reference of the Kaggle website
+* https://www.kaggle.com/code/tarushi89/hate-speech-data-analysis/data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
