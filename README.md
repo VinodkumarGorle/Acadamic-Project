@@ -81,10 +81,10 @@ For example,
 * To predict whether an email is a spam (1) or not (0)
 * Whether the tumor is malignant (1) or not (0)
 * G(x)=  1/((1+𝑒^(−𝑧)))
-here 
-* * Z is the Value of the response variable
-* * Ɵ  is the Intercept
-* * x1, x2…….. Are the regression coefficients
+  here 
+   * Z is the Value of the response variable
+   * Ɵ  is the Intercept
+   * x1, x2…….. Are the regression coefficients
 
 
 
