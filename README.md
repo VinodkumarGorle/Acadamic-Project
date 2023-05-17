@@ -74,6 +74,18 @@ extracted from any kind of data you wish to utilize for training
 * Dataset is Collected from the reference of the Kaggle website
 * https://www.kaggle.com/code/tarushi89/hate-speech-data-analysis/data
 
+## Algorithms
+### Logistic Regression :
+* Logistic Regression was used in the early twentieth century. It was then used in many social science applications. Logistic Regression is used when the dependent variable (target) is categorical.
+For example,
+* To predict whether an email is a spam (1) or not (0)
+* Whether the tumor is malignant (1) or not (0)
+* G(x)=  1/((1+𝑒^(−𝑧)))
+here 
+* * Z is the Value of the response variable
+* * Ɵ  is the Intercept
+* * x1, x2…….. Are the regression coefficients
+
 
 
 
