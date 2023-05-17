@@ -38,7 +38,7 @@ extracted from any kind of data you wish to utilize for training
 * Spam Filter	    	Gmail filters spam emails separately.
 * Auto-Predict	  	Google Search predicts user search results.
 ##### Natural Language Toolkit(NLTK): 
-  NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
+	NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
 
 
 
