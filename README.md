@@ -21,3 +21,12 @@ extracted from any kind of data you wish to utilize for training
 #### The main objective of the work is :
 * Hate Speech detection using Natural Language Processing and Machine Learning algorithms.
 * Classify tweets into two classes based on sentiment analysis.
+
+## Introduction of Hate speech
+#### Hate Speech :
+* Hate speech is speech that attacks a person or group on the basis of attributes such as race religion, ethnic origin, national origin, gender, disability, or sexual orientation.
+* In the face of the popularization of social media such as Facebook, Twitter, Instagram, and Tik Tok, communication between people has become faster and easier. In these communication mechanisms, people can express their feelings, criticism, opinions, achievements, etc.
+* The big problem with this relies on the fact that the offense is presented to individuals or groups and this can be potentially harmful to them.
+
+
+
