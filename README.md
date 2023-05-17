@@ -34,13 +34,13 @@ extracted from any kind of data you wish to utilize for training
 #### Natural Language Processing:
 - NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.Its goal is to build systems that can make sense of text and automatically perform tasks like translation, spell check, or topic classification
 ###### NLP in Real Life		Example
-* Information Retrieval   	Google finds relevant and similar results
-* Machine Translation   	Google Translate translates language from one language to another.
-* Text Simplification   	Simplifies the meaning of sentences. 
-* Sentiment Analysis    	Hater News gives us the sentiment of the user.
-* Text Summarization	    It gives a summary of sentences.
-* Spam Filter	    	Gmail filters spam emails separately.
-* Auto-Predict	  	Google Search predicts user search results.
+* Information Retrieval :   	Google finds relevant and similar results
+* Machine Translation :  	Google Translate translates language from one language to another.
+* Text Simplification  : 	Simplifies the meaning of sentences. 
+* Sentiment Analysis   : 	Hater News gives us the sentiment of the user.
+* Text Summarization	:    It gives a summary of sentences.
+* Spam Filter	 :   	Gmail filters spam emails separately.
+* Auto-Predict	:  	Google Search predicts user search results.
 ##### Natural Language Toolkit(NLTK): 
 - NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
 
