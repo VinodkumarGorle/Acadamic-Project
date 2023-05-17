@@ -1,4 +1,5 @@
 # Hate speech detection using Natural Language Processing and Machine Learning 
+## Abstract
 > Hate speech is currently of broad and current interest in the domain of social media.
 The anonymity and flexibility afforded by the Internet have made it easy for users to
 communicate aggressively. And as the amount of online hate speech is increasing, methods
