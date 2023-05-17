@@ -45,4 +45,31 @@ extracted from any kind of data you wish to utilize for training
 - NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
 
 
+### Exicting System
+* One of the critical tasks of automatic detection of hate speech is differentiating it from the other context of offensive language. The existing hate speech recognition systems used the Naive Bayes classifier.
+
+* As the existing model did not use NLP techniques such as Semantic analysis, sentiment analysis, and unigram feature, they could not achieve the desired accuracy. 
+
+### Proposed System 
+* The proposed system aims to increase the accuracy of hate speech prediction using Natural Language Processing and Logistic Regression techniques.
+
+### Software Requirements:
+* Operating system 	   	: Windows XP/7/10
+* Software		:  Python 3.6 or high version
+* IDE                              	:  PyCharm.
+* Framework                            :   Flask  
+### Hardware Requirements:
+* RAM			:  8 GB
+* Hard disk		:  More than 500 GB	
+* Processor		:  Intel 5th generation or high.
+
+
+
+
+
+
+
+
+
+
 
