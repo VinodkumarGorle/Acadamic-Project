@@ -87,6 +87,20 @@ For example,
    * Ɵ  is the Intercept
    * x1, x2…….. Are the regression coefficients
 
+#### The algorithm in Logistic Regression:
+
+##### Step:-1
+ * Data Pre-processing step
+##### Step:-2
+ * Fitting Logistic Regression to the Training set
+##### Step:-3
+ * Predicting the test result
+##### Step:-4
+ * Test accuracy of the result
+##### Step:-5
+  * Visualizing the test set result.
+
+
 
 
 
